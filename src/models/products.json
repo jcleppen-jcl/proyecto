@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Remera Deportiva",
+        "price": 150,
+        "cantidad": 150
+    },
+    {
+        "id": 2,
+        "name": "Zapatilla Deportiva",
+        "price": 1200,
+        "cantidad": 1200
+    },
+    {
+        "id": 3,
+        "name": "Mochila Escolar",
+        "price": 350,
+        "cantidad": 350
+    },
+    {
+        "id": 7,
+        "name": "Zapatilla Running",
+        "price": 2200,
+        "cantidad": 2200
+    },
+    {
+        "id": 8,
+        "name": "Mochila Tres Capas",
+        "price": 350,
+        "cantidad": 350
+    },
+    {
+        "id": 9,
+        "name": "Auriculares WiFi",
+        "price": 1800,
+        "cantidad": 1800
+    },
+    {
+        "id": 10,
+        "name": "Botella Plastica",
+        "price": 520,
+        "cantidad": 520
+    },
+    {
+        "id": 11,
+        "name": "Buzo de neopreno",
+        "price": 700,
+        "cantidad": 700
+    },
+    {
+        "id": 12,
+        "name": "Buzo de algodon",
+        "price": 800,
+        "cantidad": 800
+    },
+    {
+        "id": 10,
+        "name": "Campera de algodon",
+        "price": 1800,
+        "cantidad": 1800
+    }
+]
